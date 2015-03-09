@@ -1,10 +1,22 @@
-**SupCrowdfunder**
+<h1>SupCrowdfunder</h1>
 
-* Version 0.9
+<h2>Informations</h2>
+<ul>
+  <li>Version 0.9</li>
+  <li>Projet académique (Supinfo)</li>
+  <li>Plateforme de financement participative</li>
+  <li>Plateforme Web & Android</li>
+</ul>
 
-Compte administrateur
-email : admin@admin.com
-mdp : admin
+<h2>Dépendances</h2>
+<ul>
+  <li>Jax-RS</li>
+  <li>Gson</li>
+  <li>Hibernate</li>
+  <li>Bootstrap</li>
+</ul>
 
-BDD : supcrowdfunder.sql
-APP Android : SupCrowdfunder.war
+<h2>Serveur</h2>
+<ul>
+  <li>Apache Tomcat 7</li>
+</ul>
